@@ -1,4 +1,4 @@
-# Encoded By : ZIHAD HOSSAIN RAFI
+# Encoded By : Alamgir Hossain
 # Encryption : Py3 Marshal
 # Py3 Version : 3.11
 import marshal
